@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BOLD';
+    src: url(../fonts/GothicA1-Bold.ttf) format(truetype);
+}
+@font-face {
+    font-family: 'REGULAR';
+    src: url(../fonts/GothicA1-Regular.ttf) format(truetype);
+}
